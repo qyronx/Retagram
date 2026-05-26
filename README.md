@@ -13,8 +13,8 @@
 - **계정 정책:** 인스타그램의 정책 변경에 따라 기능이 차단될 수 있습니다. 
 1
 ## 📥 다운로드 및 설치
-1. [Release 페이지](https://github.com/사용자계정/레포지토리명/releases)로 이동합니다.
-2. 최신 버전의 `app-release.apk` 파일을 다운로드합니다.
+1. [Release 페이지]([https://github.com/사용자계정/레포지토리명/releases](https://github.com/qyronx/Retagram/releases/tag/Retagram))로 이동합니다.
+2. `Retagram.apk` 파일을 다운로드합니다.
 3. 다운로드한 파일을 스마트폰으로 옮긴 뒤 설치합니다. (설정에서 '출처를 알 수 없는 앱 설치' 허용 필요)
 
 ## 🛠 기술 스택
