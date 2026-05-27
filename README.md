@@ -17,7 +17,7 @@
 2. `Retagram.apk` 파일을 다운로드합니다.
 3. 다운로드한 파일을 스마트폰으로 옮긴 뒤 설치합니다. (설정에서 '출처를 알 수 없는 앱 설치' 허용 필요)
 
-[![Total Downloads](https://img.shields.io/github/downloads/qyronx/Retagram/Retagram.apk?label=Retagram.apk%20Downloads&style=for-the-badge&logo=android&color=green)](https://github.com/qyronx/Retagram/releases/tag/Retagram)
+[![Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Retagram.apk%20Downloads&query=%24%5B0%5D.assets%5B0%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fqyronx%2FRetagram%2Freleases&style=for-the-badge&logo=android)](https://github.com/qyronx/Retagram/releases/tag/Retagram)
 
 
 ## 🛠 기술 스택
